@@ -21,5 +21,5 @@ npm run build
 
 # Installation
 To install the project, clone the repository and run:
-git clone https://github.com/JohanSebastianGR/TallerPokemon.git
+git clone https://github.com/ShellV1uz/Taller-Cells.git
 npm install
